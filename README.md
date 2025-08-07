@@ -1,1 +1,1 @@
-BitGaze adalah platform prediksi harga Bitcoin berbasis AI yang memberikan insight akurat secara real-time, didesain khusus untuk trader, investor, dan pengamat pasar kripto yang ingin mengambil keputusan lebih cerdas dan cepat.
+
